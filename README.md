@@ -205,7 +205,7 @@ This portfolio is free to use and modify for personal purposes.
 
 **Burra Venkatesh**  
 Python Full Stack Developer  
-[GitHub](https://github.com/venkatesh-burra) | [LinkedIn](https://linkedin.com/in/venkatesh-burra)
+[GitHub](https://github.com/venkatesh-burra) | [LinkedIn](https://www.linkedin.com/in/venkatesh-burra-34886b281 )
 
 ---
 
