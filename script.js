@@ -359,12 +359,12 @@
       }
 
       // Mailto fallback — opens user's email client
-      const mailtoLink = `mailto:venkatesh.burra@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+      const mailtoLink = `mailto:venkateshburra2005@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
         `Name: ${name}\nEmail: ${email}\n\n${message}`
       )}`;
 
       window.location.href = mailtoLink;
-      showFormFeedback('Opening your email client... If it did not open, email me directly at venkatesh.burra@gmail.com', 'success');
+      showFormFeedback('Opening your email client... If it did not open, email me directly at venkateshburra2005@gmail.com', 'success');
       contactForm.reset();
     });
   }
